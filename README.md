@@ -1,16 +1,17 @@
-## Hi there 👋
+About Me:
 
-<!--
-**FathimaSharinK/FathimaSharinK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently Working On:  
+Pursuing Post Graduate MCA and General Manager at Pro26
 
-Here are some ideas to get you started:
+👯 Looking to Collaborate On: 
+Scalable enterprise applications and innovative software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Helpful Skills:
+Software testing, UI/UX design, Vibe coding,etc.
+
+🌱 Currently Learning: 
+Full Stack Development
+
+💬 Ask Me About:
+Full Stack Development, Leadership, and Technical Presentations.
+
