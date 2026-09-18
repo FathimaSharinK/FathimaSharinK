@@ -1,7 +1,7 @@
 About Me:
 
 Currently Working On:  
-Pursuing Post Graduate MCA and General Manager at Pro26
+Pursuing Post Graduate MCA
 
 Looking to Collaborate On: 
 Scalable enterprise applications and innovative software solutions.
